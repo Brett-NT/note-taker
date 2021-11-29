@@ -17,4 +17,5 @@ Email: howardcompositions@gmail.com
 Github: https://github.com/Brett-NT
 
 ## Demo:
-![Untitled_ Nov 28, 2021 8_33 PM](https://user-images.githubusercontent.com/62664961/143805594-3596681f-7f1a-434e-9f49-56a1c674f8dd.gif)
+![Untitled_ Nov 28, 2021 8_54 PM](https://user-images.githubusercontent.com/62664961/143806360-df266932-0454-40f5-bcbe-bc0c5eef4987.gif)
+

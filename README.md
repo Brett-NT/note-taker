@@ -7,7 +7,7 @@ This project is designed to assist with taking notes, and to store notes taken o
 When the page loads, you will be able to create new note by giving it a title in the title box, and your note written in the text box below. In the top right corner, a save icon will appear, which will allow you to save your note and store it off to the left side of the screen.
 
 ## Installation:
-Requires express
+Requires express and generate-unique-id npm.
 
 ## Made By:
 Brett-NT
